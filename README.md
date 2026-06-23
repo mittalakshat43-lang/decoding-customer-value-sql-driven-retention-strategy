@@ -6,8 +6,6 @@ Summer Projects '26 program.
 **Team:** Akshat · Aishee · Arin  
 **Tools:** Python · DuckDB · Power BI
 
-### Dashboard Preview
-[embed your screenshot here]
 
 ### Project Structure
 | File | Description |
@@ -16,6 +14,7 @@ Summer Projects '26 program.
 | final.csv | Engineered dataset (3,780 rows × 28 cols) |
 | Deliverable_2.ipynb | SQL analysis (DuckDB) |
 | Dashboard_final.pbix | Power BI dashboard (open in Power BI Desktop) |
+| Dashboard_Preview.png | Power BI dashboard Screenshot Preview |
 | Retention Playbook.pdf | Business Recommendations |
 | executive_summary.pdf | One-page project summary |
 
