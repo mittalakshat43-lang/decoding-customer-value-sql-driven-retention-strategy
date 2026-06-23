@@ -13,9 +13,10 @@ Summer Projects '26 program.
 | File | Description |
 |---|---|
 | deliverable_1.ipynb | Data cleaning & feature engineering |
-| Deliverable_2.ipynb | SQL analysis (DuckDB) |
 | final.csv | Engineered dataset (3,780 rows × 28 cols) |
+| Deliverable_2.ipynb | SQL analysis (DuckDB) |
 | Dashboard_final.pbix | Power BI dashboard (open in Power BI Desktop) |
+| Retention Playbook.pdf | Business Recommendations |
 | executive_summary.pdf | One-page project summary |
 
 ### Central Finding
