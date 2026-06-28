@@ -11,7 +11,7 @@ Summer Projects '26 program.
 | File | Description |
 |---|---|
 | Decoding Customer Value | Problem Statement |
-| Dataset.csv | Provided dataset |
+| Dataset.csv | Provided dataset (3,900 rows x 18 cols |
 | deliverable_1.ipynb | Data cleaning & feature engineering |
 | final.csv | Engineered dataset (3,780 rows × 28 cols) |
 | Deliverable_2.ipynb | SQL analysis (DuckDB) |
